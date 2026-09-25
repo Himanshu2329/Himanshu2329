@@ -48,8 +48,8 @@
 
 | Project | Tech Stack | Impact & Results | Link |
 | :--- | :--- | :--- | :--- |
-| **Power BI Dashboard** | `Power BI` `DAX` `Star Schema` | Analyzed 3,000+ sales records; flagged bottom 18% lagging regions, driving **~12% inventory optimization**. | [View Repo](https://github.com/Himanshu2329/ShopNest_powerBi_dashboard) |
-| **Pyhton** | `Python` `Pandas` `NumPy` `Plotly` | Automated end-to-end data cleaning for 4,000+ records, cutting HR reporting time by **~40%**. | [View Repo](https://github.com/Himanshu2329/HR-Analytics-Employee-Management-System-) |
+| **Power BI Dashboard** | `Power BI` `DAX` `Star Schema` | Analyzed 3,000+ sales records; flagged bottom 18% lagging regions, driving **~12% inventory optimization**. | [View Repo](https://github.com/Himanshu2329/Power-BI) |
+| **Pyhton** | `Python` `Pandas` `NumPy` `Plotly` | Automated end-to-end data cleaning for 4,000+ records, cutting HR reporting time by **~40%**. | [View Repo](https://github.com/Himanshu2329/Python_project) |
 
 ---
 
