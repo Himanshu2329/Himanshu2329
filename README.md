@@ -49,7 +49,7 @@
 | Project | Tech Stack | Impact & Results | Link |
 | :--- | :--- | :--- | :--- |
 | **Power BI Dashboard** | `Power BI` `DAX` `Star Schema` | Analyzed 3,000+ sales records; flagged bottom 18% lagging regions, driving **~12% inventory optimization**. | [View Repo](https://github.com/Himanshu2329/Power-BI) |
-| **Pyhton** | `Python` `Pandas` `NumPy` `Plotly` | Automated end-to-end data cleaning for 4,000+ records, cutting HR reporting time by **~40%**. | [View Repo](https://github.com/Himanshu2329/Python_project) |
+| **Python** | `Python` `Pandas` `NumPy` `Plotly` | Built an end-to-end HR data cleaning, cost imputation, and Plotly visualization workflow on a sample dataset (5 employees, 5 seniority rows, and 14 project rows. | [View Repo](https://github.com/Himanshu2329/Python_project) |
 
 ---
 
