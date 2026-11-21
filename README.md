@@ -37,7 +37,7 @@
 ### 🧩 LeetCode & Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/problemset/" target="_blank">
+  <a href="https://leetcode.com/u/himanshurajput/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/himanshurajput?theme=dark&font=Ubuntu" alt="LeetCode Stats Dashboard" width="520" />
   </a>
 </p>
